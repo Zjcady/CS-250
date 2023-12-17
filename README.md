@@ -6,4 +6,4 @@ How do I approach developing programs? What agile processes do I hope to incorpo
 What does it mean to be a good team member in software development?    
     Being a good team member in software development entails technical proficiency, effective communication, and collaboration. 
     
-    Looking forward, I plan to incorporate the knowledge i learned from this course in my career. With every concept learned the most important thing i believe is to learn how to implement that to improve your working evniroment, my current workplace uses a version of Agile they are very comfortable with but several concepts could be improve on. 
+Looking forward, I plan to incorporate the knowledge i learned from this course in my career. With every concept learned the most important thing i believe is to learn how to implement that to improve your working evniroment, my current workplace uses a version of Agile they are very comfortable with but several concepts could be improve on. 
